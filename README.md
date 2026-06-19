@@ -55,4 +55,4 @@ Class data is saved as a JSON file, e.g.:
 
 ## Author
 
-`<YOUR NAME>` — OOP in Python, final project, 2026
+`Arda Efe Turgut` — OOP in Python, final project, 2026
